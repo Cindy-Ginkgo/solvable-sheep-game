@@ -73,15 +73,15 @@
     "sounds": [
         {
             "name": "sound-undo",
-            "src": "/sound-undo.mp3"
+            "src": ""
         },
         {
             "name": "sound-shift",
-            "src": "/sound-shift.mp3"
+            "src": ""
         },
         {
             "name": "sound-wash",
-            "src": "/sound-wash.mp3"
+            "src": ""
         },
         {
             "name": "button-click",
