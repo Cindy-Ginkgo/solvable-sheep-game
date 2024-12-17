@@ -1,7 +1,7 @@
 {
     "title": "农了个农",
     "desc": "",
-    "bgm": "/sound-disco.mp3",
+    "bgm": "/bgm.mp3",
     "dark": true,
     "background": "",
     "backgroundBlur": false,
