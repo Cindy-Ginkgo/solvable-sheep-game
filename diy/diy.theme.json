@@ -85,11 +85,11 @@
         },
         {
             "name": "button-click",
-            "src": "/sound-button-click.mp3"
+            "src": ""
         },
         {
             "name": "triple",
-            "src": "/sound-triple.mp3"
+            "src": ""
         }
     ],
     "operateSoundMap": {
